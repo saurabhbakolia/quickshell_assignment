@@ -1,0 +1,15 @@
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+
+.display-btn{
+    padding: 5px;
+    margin: 5px;
+}
+
+.sub-btn{
+    display: flex;
+    flex-direction: column;
+}
