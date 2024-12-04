@@ -34,7 +34,6 @@ function App() {
         setLoading(false);
       }
     }
-
     fetchData();
   }, []);
 
@@ -80,7 +79,7 @@ function App() {
         <Grid gridData={gridData} grouping={grouping} userIdToData={userData} />
       )}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
