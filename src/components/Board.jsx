@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Board() {
+function Board({grid, }) {
   return (
     <div>Board</div>
   )
